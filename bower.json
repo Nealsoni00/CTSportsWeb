@@ -1,0 +1,17 @@
+{
+  "name": "toolboxweb",
+  "description": "Website for the Tesla Toolbox application for iOS.",
+  "main": "app.js",
+  "authors": [
+    "Neal Soni <nealsoni00@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Nealsoni00/toolboxWeb",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
